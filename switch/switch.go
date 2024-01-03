@@ -1,3 +1,5 @@
+// Switch statements
+
 package main
 
 import (
@@ -6,6 +8,7 @@ import (
 )
 
 func main() {
+	// Basic switch/case statement
 	i := 2
 	fmt.Print("Write ", i, " as ")
 	switch i {
@@ -17,6 +20,7 @@ func main() {
 		fmt.Println("three")
 	}
 
+	// Switch with multiple conditions in 1 case line, and using default keyword
 	switch time.Now().Weekday() {
 	case time.Saturday, time.Sunday:
 		fmt.Println("It's a weekend!")
@@ -24,6 +28,7 @@ func main() {
 		fmt.Println("It's a weekday!")
 	}
 
+	// Switch with an evaluation
 	t := time.Now()
 	switch {
 	case t.Hour() < 12:
@@ -32,6 +37,7 @@ func main() {
 		fmt.Println("It's after noon")
 	}
 
+	// Using swithch within a function invokation
 	whatAmI := func(i interface{}) {
 		switch t := i.(type) {
         case bool:

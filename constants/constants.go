@@ -1,3 +1,5 @@
+// Constants
+
 package main
 
 import (
@@ -5,6 +7,7 @@ import (
 	"math"
 )
 
+// Set a constant with type 'string', can use different data types
 const s string = "constant"
 
 func main() {
