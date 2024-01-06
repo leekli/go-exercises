@@ -21,8 +21,8 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Pointers ✅
 - Strings and Runes ✅
 - Structs ✅
-- Methods
-- Interfaces
+- Methods ✅
+- Interfaces ✅
 - Struct Embedding
 - Generics
 - Errors
