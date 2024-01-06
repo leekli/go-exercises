@@ -19,8 +19,8 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Closures ✅
 - Recursion ✅
 - Pointers ✅
-- Strings and Runes
-- Structs
+- Strings and Runes ✅
+- Structs ✅
 - Methods
 - Interfaces
 - Struct Embedding
