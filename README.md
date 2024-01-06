@@ -23,9 +23,8 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Structs ✅
 - Methods ✅
 - Interfaces ✅
-- Struct Embedding
-- Generics
-- Errors
+- Struct Embedding ✅
+- Errors ✅
 - Goroutines
 - Channels
 - Channel Buffering
