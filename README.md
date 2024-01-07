@@ -25,11 +25,11 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Interfaces ✅
 - Struct Embedding ✅
 - Errors ✅
-- Goroutines
-- Channels
-- Channel Buffering
-- Channel Synchronization
-- Channel Directions
+- Goroutines ✅
+- Channels ✅
+- Channel Buffering ✅
+- Channel Synchronization ✅
+- Channel Directions ✅
 - Select
 - Timeouts
 - Non-Blocking Channel Operations
