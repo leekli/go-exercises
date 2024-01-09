@@ -24,8 +24,14 @@ func main() {
 		c2 <- "msg two"
 	}()
 
+	// 2nd message sent to channel1
+	go func() {
+		time.Sleep(1 * time.Second)
+		c1 <- "msg one 2"
+	}()
+
 	// Use select keyword with cases to deal with incoming messages from channels
-	for i := 0; i < 2; i++ {
+	for i := 0; i < 3; i++ {
 		select {
 		case msg1 := <-c1:
 			fmt.Println("received:", msg1)
