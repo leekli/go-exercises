@@ -38,7 +38,7 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Timers ✅
 - Tickers ✅
 - Worker Pools ✅
-- WaitGroups
+- WaitGroups ✅
 - Rate Limiting
 - Atomic Counters
 - Mutexes
