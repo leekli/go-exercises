@@ -39,12 +39,11 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Tickers ✅
 - Worker Pools ✅
 - WaitGroups ✅
-- Rate Limiting
-- Atomic Counters
-- Mutexes
-- Stateful Goroutines
-- Sorting
-- Sorting by Functions
+- Rate Limiting ✅
+- Atomic Counters ✅
+- Mutexes ✅
+- Sorting ✅
+- Sorting by Functions ✅
 - Panic
 - Defer
 - Recover
