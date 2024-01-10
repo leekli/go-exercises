@@ -30,14 +30,14 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Channel Buffering ✅
 - Channel Synchronization ✅
 - Channel Directions ✅
-- Select
-- Timeouts
-- Non-Blocking Channel Operations
-- Closing Channels
-- Range over Channels
-- Timers
-- Tickers
-- Worker Pools
+- Select ✅
+- Timeouts ✅
+- Non-Blocking Channel Operations ✅
+- Closing Channels ✅
+- Range over Channels ✅
+- Timers ✅
+- Tickers ✅
+- Worker Pools ✅
 - WaitGroups
 - Rate Limiting
 - Atomic Counters
