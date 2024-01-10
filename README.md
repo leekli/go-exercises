@@ -44,11 +44,11 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Mutexes ✅
 - Sorting ✅
 - Sorting by Functions ✅
-- Panic
-- Defer
-- Recover
-- String Functions
-- String Formatting
+- Panic ✅
+- Defer ✅
+- Recover ✅
+- String Functions ✅
+- String Formatting ✅
 - Text Templates
 - Regular Expressions
 - JSON
