@@ -49,10 +49,8 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Recover ✅
 - String Functions ✅
 - String Formatting ✅
-- Text Templates
-- Regular Expressions
+- Regular Expressions ✅
 - JSON
-- XML
 - Time
 - Epoch
 - Time Formatting / Parsing
