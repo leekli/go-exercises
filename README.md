@@ -61,11 +61,10 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Base64 Encoding ✅
 - Reading Files ✅
 - Writing Files ✅
-- Line Filters
-- File Paths
-- Directories
+- Line Filters ✅
+- File Paths ✅
+- Directories ✅
 - Temporary Files and Directories
-- Embed Directive
 - Testing and Benchmarking
 - Command-Line Arguments
 - Command-Line Flags
