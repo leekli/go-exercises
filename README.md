@@ -57,10 +57,10 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Random Numbers ✅
 - Number Parsing ✅
 - URL Parsing ✅
-- SHA256 Hashes
-- Base64 Encoding
-- Reading Files
-- Writing Files
+- SHA256 Hashes ✅
+- Base64 Encoding ✅
+- Reading Files ✅
+- Writing Files ✅
 - Line Filters
 - File Paths
 - Directories
