@@ -50,11 +50,11 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - String Functions ✅
 - String Formatting ✅
 - Regular Expressions ✅
-- JSON
-- Time
-- Epoch
-- Time Formatting / Parsing
-- Random Numbers
+- JSON ✅
+- Time ✅
+- Epoch ✅
+- Time Formatting / Parsing ✅
+- Random Numbers ✅
 - Number Parsing
 - URL Parsing
 - SHA256 Hashes
