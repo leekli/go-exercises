@@ -64,11 +64,9 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Line Filters ✅
 - File Paths ✅
 - Directories ✅
-- Temporary Files and Directories
-- Testing and Benchmarking
-- Command-Line Arguments
-- Command-Line Flags
-- Command-Line Subcommands
+- Temporary Files and Directories ✅
+- Command-Line Arguments ✅
+- Command-Line Flags ✅
 - Environment Variables
 - Logging
 - HTTP Client
