@@ -67,12 +67,12 @@ I'm currently learning `Go`, and uploading my exercise solutions in this repo.
 - Temporary Files and Directories ✅
 - Command-Line Arguments ✅
 - Command-Line Flags ✅
-- Environment Variables
-- Logging
-- HTTP Client
-- HTTP Server
-- Context
-- Spawning Processes
-- Exec'ing Processes
-- Signals
-- Exit
+- Environment Variables ✅
+- Logging ✅
+- HTTP Client ✅
+- HTTP Server ✅
+- Context ✅
+- Spawning Processes ✅
+- Exec'ing Processes ✅
+- Signals ✅
+- Exit ✅
